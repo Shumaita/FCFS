@@ -1,4 +1,5 @@
-###First Come First Serve
+## First Come First Serve
+
 *Description:*
 First Come First Serve (FCFS) in operating systems is a scheduling algorithm where the process that arrives first gets executed first, operating on a non-preemptive basis.
 
